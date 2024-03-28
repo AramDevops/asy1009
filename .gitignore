@@ -1,0 +1,13 @@
+
+# ignore all .trash and .txt files:
+
+*.trash
+*.txt
+
+# suivre un .txt spécifique:
+!empty.txt
+
+# ignorer ces dossiers et fichiers
+
+Old/
+
